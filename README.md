@@ -1,8 +1,8 @@
 ## Hi there SanGong
 
-Some of my projects are written on gitee https://gitee.com/sangonghappy，Too lazy to transfer
+Some of my projects are written on gitee https://gitee.com/sangonghappy ，Too lazy to transfer
 
-有些项目写在 gitee 上 https://gitee.com/sangonghappy，懒得转移了
+有些项目写在 gitee 上 https://gitee.com/sangonghappy ，懒得转移了
 
 
 Good at vue2 vue3, js, ts, node, electron, python
