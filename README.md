@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there SanGong
 
-<!--
-**SanGongHappy/SanGongHappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of my projects are written on gitee https://gitee.com/sangonghappy，Too lazy to transfer
+有些项目写在 gitee 上 https://gitee.com/sangonghappy，懒得转移了
 
-Here are some ideas to get you started:
+Good at vue2 vue3, js, ts, node, electron, python
+擅长 vue2，vue3，js,ts,node,electron,python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning java, go
+正在学习java，go
+
+My English is really poor and I'm working on it
+我的英语是真的差劲，正在恶补
