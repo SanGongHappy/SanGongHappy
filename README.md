@@ -4,6 +4,6 @@ Some of my projects are written on gitee https://gitee.com/sangonghappy ，Too l
 
 Good at js, ts, node, vue2 vue3, react, electron, python
 
-Learning java, go
+Learning java, go, c++
 
 My English is really poor and I'm working on it
